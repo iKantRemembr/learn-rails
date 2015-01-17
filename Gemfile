@@ -45,5 +45,7 @@ group :development, :test do
   gem 'better_errors'
   gem 'quiet_assets'
   gem 'rails_layout'
+  gem 'foundation-rails'
+  gem 'simple_form'
 end
 
